@@ -1,4 +1,4 @@
-# 🅿️ easy-Park — Web-Based Automated Parking Reservation and Management System
+# 🅿️ easy-Park — Web-Based Automated Parking Reservation and Management System.
 
 > A full-stack web application that lets drivers find and reserve parking slots online, lets gate staff manage vehicle entry and exit (including complaints), and gives administrators full control over slots, users, reviews, complaints and revenue.
 
